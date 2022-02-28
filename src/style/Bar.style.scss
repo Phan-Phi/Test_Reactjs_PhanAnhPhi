@@ -9,14 +9,19 @@
             margin-bottom: 10px;
 
             li {
-                margin-bottom: 10px;
                 border-bottom: 1px solid white;
+
+                &:hover {
+                    background-color: rgb(116, 116, 116);
+                }
 
                 p {
                     color: white;
+                    padding: 15px;
 
-
-
+                    &:hover {
+                        color: rgb(231, 231, 231);
+                    }
                 }
             }
         }
