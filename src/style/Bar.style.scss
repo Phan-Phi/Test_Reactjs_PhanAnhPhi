@@ -6,7 +6,19 @@
     .NavBar_content {
 
         ul {
-            li {}
+            margin-bottom: 10px;
+
+            li {
+                margin-bottom: 10px;
+                border-bottom: 1px solid white;
+
+                p {
+                    color: white;
+
+
+
+                }
+            }
         }
     }
 }

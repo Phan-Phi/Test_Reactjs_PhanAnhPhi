@@ -1,0 +1,54 @@
+.Main {
+    text-align: center;
+    width: 1510px;
+    margin: 0 auto;
+
+    .logo {
+        margin-top: 20px;
+
+        margin-bottom: 30px;
+    }
+
+    .lorem1 {
+        margin-bottom: 40px;
+        padding: 38px 269px;
+        background: #EFEFEF;
+
+        .lorem1_1 {
+            margin-bottom: 18px;
+            font-weight: 800;
+        }
+
+        .lorem1_2 {}
+    }
+
+    .lorem2 {
+        display: flex;
+        margin-bottom: 183px;
+        gap: 18px;
+
+        .lorem2_1_1 {
+            text-align: justify;
+            display: flex;
+        }
+
+        .lorem2_1 {
+            text-align: justify;
+
+
+        }
+
+        .lorem2_text {
+            font-weight: 900;
+        }
+    }
+
+    .lorem4 {
+        text-align: left;
+
+        p {
+            width: 200px;
+            margin: 30px 0;
+        }
+    }
+}
